@@ -1,0 +1,114 @@
+# Lab Analysis Prompt
+
+## Initial Patient Context
+
+1. Subjective Information:
+- Current symptoms and concerns
+- Recent health changes
+- Sleep patterns
+- Energy levels
+- Stress levels
+- Diet overview
+- Exercise habits
+- Lifestyle factors
+- Quality of life indicators
+
+2. Current Treatment Protocol:
+- BHRT medications and dosages
+- Other medications
+- Supplements
+- Duration of current protocol
+- Response to current treatment
+- Any side effects
+- Adherence to protocol
+- Recent protocol adjustments
+
+3. Historical Data:
+- Previous lab results with dates
+- Past treatment protocols
+- Treatment response history
+- Notable health events
+- Pattern of symptoms
+- Previous interventions
+- Treatment efficacy history
+
+## Analysis Request
+
+Based on the provided patient information, current treatment protocol, and lab results (with any historical data), please provide two distinct outputs:
+
+### Output 1: Professional Medical Record Analysis
+
+1. Patient Overview:
+- Comprehensive patient summary
+- Current treatment protocol details
+- Relevant medical history
+- Subjective report summary
+
+2. Lab Results Analysis:
+Organize markers by physiological systems:
+- Hormones
+- Metabolic markers
+- Cardiovascular markers
+- Inflammatory markers
+- Other relevant systems
+
+For each marker include:
+- Name and numerical value
+- Status (High/Low/Normal)
+- Unit of measurement
+- Comparison to previous results
+- Trend analysis
+- Clinical significance
+
+3. Treatment Strategy:
+- Current protocol evaluation
+- Recommended protocol adjustments
+- BHRT modifications if needed
+- Supplement recommendations
+- Lifestyle modifications
+- Monitoring recommendations
+- Follow-up timeline
+
+### Output 2: Patient Communication Email
+
+1. Opening:
+- Warm but professional greeting
+- Acknowledge their recent lab work and visit
+
+2. Current Status Review:
+- Brief recap of their reported symptoms/concerns
+- Acknowledge their current treatment experience
+- Note any improvements or ongoing challenges
+
+3. Results Overview:
+- Explain key findings in clear, non-technical language
+- Compare to previous results
+- Highlight improvements and areas of concern
+- Use analogies or simple explanations for complex markers
+
+4. Proposed Plan:
+- Outline recommended protocol adjustments
+- Explain lifestyle recommendations
+- Preview topics for in-person discussion
+- Rationale for changes in layman's terms
+
+5. Next Steps:
+- Confirm upcoming appointment
+- List any pre-appointment preparations
+- Encourage questions
+- Specify urgent vs. non-urgent concerns
+
+## Additional Analysis Guidelines
+
+- Maintain consistent timeline of patient's treatment journey
+- Note correlations between symptoms and lab results
+- Include rationale for treatment adjustments
+- Document patient preferences and constraints
+- Consider lifestyle factors in recommendations
+- Note any adverse reactions or sensitivities
+- Track progression of symptoms alongside lab values
+- Include relevant patient-specific considerations
+
+## Important Note
+
+Please ensure all analyses consider the complete context of the patient, including subjective information, current protocol effectiveness, and historical data when available. All recommendations should be personalized based on the patient's specific situation and response to current/previous treatments.
